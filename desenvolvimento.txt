@@ -1,0 +1,8 @@
+- Crie um objeto construtor contendo as seguintes propriedades.
+nome
+idade
+cpf
+
+- Crie um Array para armazenar esses objetos
+- Crie pelo menos 4 objetos dentro do Array
+- Utilize forEach para varrer o Array
